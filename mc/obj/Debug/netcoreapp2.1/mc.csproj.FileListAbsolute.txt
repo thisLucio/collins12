@@ -9,3 +9,15 @@ F:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.Assembl
 F:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.AssemblyInfo.cs
 F:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.dll
 F:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.pdb
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\bin\Debug\netcoreapp2.1\mc.deps.json
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\bin\Debug\netcoreapp2.1\mc.runtimeconfig.json
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\bin\Debug\netcoreapp2.1\mc.runtimeconfig.dev.json
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\bin\Debug\netcoreapp2.1\mc.dll
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\bin\Debug\netcoreapp2.1\mc.pdb
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.csprojAssemblyReference.cache
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.AssemblyInfoInputs.cache
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.AssemblyInfo.cs
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.csproj.CoreCompileInputs.cache
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.dll
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.pdb
+D:\COLLINS PROJECT ALL VERSIONS\collins_12\mc\obj\Debug\netcoreapp2.1\mc.genruntimeconfig.cache
