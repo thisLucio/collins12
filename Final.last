@@ -1,0 +1,12 @@
+
+Scope[]{
+    int::n1;
+    int::n2;
+    float::media;
+}
+
+InitLast::{
+    _display("Insira o primeiro numero: ", n1);
+    _display("Insira o segundo numero: ", n1);
+    var::media = (n1 * n2) / 2
+}

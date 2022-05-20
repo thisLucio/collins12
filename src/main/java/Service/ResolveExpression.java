@@ -83,23 +83,7 @@ public class ResolveExpression {
 
     }
 
-    public Float operation(Float number1, Float number2, char op) {
-        switch (op) {
-            case '+': {
-                return number1 + number2;
-            }
-            case '-': {
-                return number1 - number2;
-            }
-            case '/': {
-                return number1 / number2;
-            }
-            case '*': {
-                return number1 * number2;
-            }
-            default:
-                throw new RuntimeException("ERROR: OPERATION IS NOT ALLOWED");
-
-        }
-    }
+   private String[] breakBlankValue(String expression){
+        return new String[]{expression};
+   }
 }
