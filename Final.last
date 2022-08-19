@@ -6,7 +6,8 @@ Scope[]{
 }
 
 InitLast::{
-    _display("Insira o primeiro numero: ", n1);
-    _display("Insira o segundo numero: ", n1);
-    var::media = (n1 * n2) / 2
+    _display("Insira o primeiro numero: ");
+    _display("Insira o segundo numero: ");
+    var::media = (n1 + n2) / 2;
+    _dispaly(media);
 }
