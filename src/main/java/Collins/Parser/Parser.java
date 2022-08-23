@@ -1,4 +1,4 @@
-package Parser;
+package Collins.Parser;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

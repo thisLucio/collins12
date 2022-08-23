@@ -1,4 +1,4 @@
-package Parser.SyntacticModels;
+package Collins.Parser.SyntacticModels;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

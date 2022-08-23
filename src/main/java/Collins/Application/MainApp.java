@@ -1,7 +1,6 @@
-package Application;
+package Collins.Application;
 
-import Parser.Parser;
-import Service.RpnModule;
+import Collins.Parser.Parser;
 
 import java.io.File;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package Converter;
+package Collins.Converter;
 
 public class ConverterPolishNotation {
 }

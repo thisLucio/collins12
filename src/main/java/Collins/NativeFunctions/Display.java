@@ -1,4 +1,4 @@
-package NativeFunctions;
+package Collins.NativeFunctions;
 
 public class Display {
     private String message;
